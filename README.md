@@ -1,4 +1,4 @@
-# Spam-Detection
+# Spam-Classification
 
 Projekt implementacji podsystemu [aplikacji webowej](https://github.com/wojciechpajak/Spam-Detection-Web-App) zintegrowanej z modelami uczenia maszynowego do klasyfikacji spamu. System dedykowany jest do budowania trzech modeli klasyfikacyjnych: MNB (Multinomial Naive Bayes), SVC (Support Vector Classifier) oraz MLP (Multi-layer Perceptron).
 
